@@ -1,0 +1,14 @@
+/home/rolowany/Desktop/C#/lab03/bin/Debug/net10.0/lab03
+/home/rolowany/Desktop/C#/lab03/bin/Debug/net10.0/lab03.deps.json
+/home/rolowany/Desktop/C#/lab03/bin/Debug/net10.0/lab03.runtimeconfig.json
+/home/rolowany/Desktop/C#/lab03/bin/Debug/net10.0/lab03.dll
+/home/rolowany/Desktop/C#/lab03/bin/Debug/net10.0/lab03.pdb
+/home/rolowany/Desktop/C#/lab03/obj/Debug/net10.0/lab03.GeneratedMSBuildEditorConfig.editorconfig
+/home/rolowany/Desktop/C#/lab03/obj/Debug/net10.0/lab03.AssemblyInfoInputs.cache
+/home/rolowany/Desktop/C#/lab03/obj/Debug/net10.0/lab03.AssemblyInfo.cs
+/home/rolowany/Desktop/C#/lab03/obj/Debug/net10.0/lab03.csproj.CoreCompileInputs.cache
+/home/rolowany/Desktop/C#/lab03/obj/Debug/net10.0/lab03.dll
+/home/rolowany/Desktop/C#/lab03/obj/Debug/net10.0/refint/lab03.dll
+/home/rolowany/Desktop/C#/lab03/obj/Debug/net10.0/lab03.pdb
+/home/rolowany/Desktop/C#/lab03/obj/Debug/net10.0/lab03.genruntimeconfig.cache
+/home/rolowany/Desktop/C#/lab03/obj/Debug/net10.0/ref/lab03.dll
